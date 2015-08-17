@@ -5,7 +5,22 @@ ini_set('display_errors', 1);
 umask(0);
 
 // mage setup
-require_once dirname(__FILE__).'/../../../../Sites/tbmango/app/Mage.php';
+if (sizeof($argv) != 2) {
+	echo "Usage: php ".$argv[0]." <path_to_mage_root>";
+	exit();
+}
+
+$mage_root = $argv[1];
+$mage_core = $mage_root."/app/Mage.php";
+
+if (!file_exists($mage_core)) {
+	echo $mage_core." not found.";
+	exit();
+}
+
+require_once $mage_core;
+
+//require_once dirname(__FILE__).'/../../../../Sites/tbmango/app/Mage.php';
 Mage::app()->setCurrentStore(Mage_Core_Model_App::ADMIN_STORE_ID);
 
 
