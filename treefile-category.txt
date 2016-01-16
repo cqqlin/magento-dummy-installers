@@ -1,0 +1,575 @@
+- Default Category
+ - Australian Catholic University
+  - ACCT100 - Accounting Principles
+  - ACCT204 - Managerial Accounting
+  - ACCT207 - Fnancial Accounting A
+  - ACCT304 - Accounting Theory
+  - ADLA107 - Linguistics For Literacy
+  - ALHT106 - Allied Health for Psychology
+  - BAFN200 - Principles of Business Finance
+  - BAFN600 - Finance And Quantitative Methods
+  - BIOL121 - Biological Science 1
+  - BIOL121 - Foundation Biological Science 1
+  - BUSN110 - Resposible Reasoning & Communication
+  - BUSN603 - Corporate Governance
+  - BUSN607 - Entrepreneurship
+  - COUN106 - Intro To Counselling
+  - COUN108 - Ethics and Legal Issues
+  - COUN214 - Grief And Loss Counselling
+  - COUN216 - Religion And Spiritual Issues In Counsel
+  - COUN218 - Counselling
+  - COUN219 - Family & Relationship Counselling
+  - COUN223 - Psychodynamic Counselling
+  - COUN224 - Addiction Counselling
+  - COUN601 - Theories And Techniques Ii
+  - COUN617 - Trauma Counselling & Therapy
+  - COUN626 - Counselling Practice Skills
+  - COUN627 - Lifespan Development Issues For Psychologists
+  - COUN631 - Ethics and Professional Practice
+  - ECON600 MBAE - Professional Term 1
+  - EDAB111 - Indigenous Cultures
+  - EDAB161 - Indigenous Cultures and People
+  - EDCU413 - T&c Mathematics
+  - EDCU415 - Teaching And Curriculum 2a
+  - EDCU513 - Teaching & Curriculum
+  - EDCU515 - SOSE
+  - EDFD108 - Children's Literature for Literacy
+  - EDFD127 - Context For Development
+  - EDFD127 - Contexts For Learning & Development
+  - EDFD167 - Context for Development and Learning
+  - EDFD167 - Contexts for Learning
+  - EDFD168 - Children's Literature for Literacy
+  - EDFD218 - Teaching and Learning
+  - EDFD221 - Creating Inclusive Safe & Supp've School
+  - EDFD261 - Creating Inclusive Safe and Supportive Schools
+  - EDFD268 - Teaching and Learning
+  - EDFD534 - Studying Social Science and Environmental Science
+  - EDFD535 - Studying Social Science and Environmental Science
+  - EDFD546 - Development & Learning
+  - EDFD548 - Effective Teaching and Professional Practice
+  - EDLA108 - Childrens Literature For Literacy
+  - EDLA108 - Effective Teaching And Professional Prac
+  - EDLA168 - Children's Literature for Literacy
+  - EDLA168 - Childrens Literature and Literacy
+  - EDLA204 - Literacy & Education
+  - EDLA204 - Literacy Education 1
+  - EDLA264 - Literacy Education
+  - EDLA264 - Literacy Education1
+  - EDLA403 - Children & Literature
+  - EDMA103 - Exploring Mathematics 1
+  - EDMA202 - Maths:learning & Teaching 1
+  - EDMA262 - Mathematics : Learning and Teaching 1
+  - EDRE101 - Religious Education 1
+  - EDSS428 - Connecting Society & Environment
+  - EDSS468 - Connecting Society and Environment
+  - EDST102 - Studies of Society & The Environment
+  - EDST201 - Science & Technology Education
+  - ENGL104 - Intro To Literature
+  - ENGL221 - Cultural Studies
+  - ENGL328 - Advanced Australian  Literature
+  - EXSC198 - Fitness Health & Performance
+  - HIST105 - Early Modern Europe
+  - HIST106 - Aust Indigenous Peoples
+  - HIST209 - Germany 1866-1945
+  - HLSC110 - Beginning Professional Practice
+  - HLSC111 - Person Health & Wellbeing
+  - HLSC111 - Personal Health And Wellbeing
+  - HLSC604 - Quality in Healthcare
+  - HLSC640 - Interpreting Health Research
+  - HRMG204 - Organisational Behaviour
+  - HUMA317 - History & Geography of Ancient & Modern Rome
+  - ISYS111 - Fundamentals of Business Information Systems
+  - ISYS215 - Introduction to Systems Analysis
+  - LAWS104 - Legal Reading, Writing & Research
+  - LAWS105 - Contract Law
+  - LAWS106 - Criminal Law and Procedure
+  - LAWS202 - Comparative Legal Systems
+  - LAWS205 - Property Law
+  - LAWS206 - Torts Law
+  - LAWS305 - Legal Ethis and Professional Responsibility
+  - MGMT304 - Strategic Management
+  - MGMT307 - Cross Cultural Managment
+  - MIDW127 - Beginning The Journey
+  - MKTG201 - Consumer Behaviour
+  - MKTG600 - Marketing Masters
+  - NRSG210 - Mental Health Nursing
+  - NRSG262 - CLINICAL INTEGRATION: MENTAL HEALTH
+  - OTHY100 - Foundations of Occupational Therapy
+  - OTHY101 - Health and Occupation
+  - OTHY200 - Neuroscience,Neurodevelopment
+  - OTHY201 - Contextual Determinants of Health, Illness and Disability
+  - OTHY202 - Ergonomics and Occupational Health and Safety
+  - PHTY100 - Physiotherapy Anatomy 1
+  - PHTY200 - Physiotherapy Pathophysiology
+  - PHTY201 - Physiotherapy Pathophysiology 2
+  - PHTY202 - Movement Science and Practice 1
+  - PHTY206 - Musculoskeletal Science & Practice 1
+  - PHTY301 - Musculoskeletal Science and Practice 3
+  - POLS103 - Introduction to Comparative Politics
+  - PSYC100 - Psychology 1
+  - PSYC105 - Critical Thinking in Psychology
+  - PSYC200 - Lifespan Development
+  - PSYC206 - Research Design and Statistics
+  - PSYC207 - Cross-Cultural Psychology
+  - PSYC211 - Small Group Processes
+  - PSYC311 - Research Design and Statistics
+  - PSYC312 - Individual Differences and Assessment
+  - PSYC424 - Research Methods
+  - PSYC637 - Health Psychology
+  - PSYC652 - Clinical Assessment & Interventions
+  - SPHY101 - Introduction to Speech Pathology Practice
+  - SPHY103 - Linguistics and Phonetics for Speech Pathology
+  - SPHY200 - Neuroscience for Speech Pathology
+  - SPHY203 - Speech Pathology Practice (Clinical Units)
+  - STAT102 - Business Statistics
+  - STAT102 - Business Statistics (msm Campus)
+ - Deakin University
+  - ACR102
+  - HBS107
+  - HPS121 - Psychology B: Individual and Social Development
+  - HPS205 - Brain, Biology and Behaviour
+  - HPS308
+  - MAA103 - Accounting for Decision Making
+  - MAA261 - Financial Accounting
+  - MAA302 - Strategic Management Accounting
+  - MAA303 - Auditing
+  - MAA310 - Accounting and Society
+  - MAA350 - Ethics and Financial Services
+  - MAA363 - Corporate Accounting
+  - MAE101 - Economic Principles
+  - MAE102 - The Global Economy
+  - MAE201 - Competition and Industry
+  - MAE301 - Microeconomic Theory and Policy
+  - MAE302 - Macroeconomics of Open Economies
+  - MAE304 - Labour Economics
+  - MAE305 - Business and Financial Forecasting
+  - MAE306 - Applied Econometrics for Economics and Finance
+  - MAE314 - Economic Strategy for Business
+  - MAE322 - The Economics of the Environment
+  - MAE356 - Analytical Methods in Economics and Finance
+  - MAF202 - Money and Capital Markets
+  - MAF203 - Business Finance
+  - MAF302 - Corporate Finance
+  - MAF303 - Treasury Management
+  - MAF305 - Bank Management
+  - MAF307 - Equities and Investment Analysis
+  - MAF308 - Derivative Securities
+  - MIS101 - Business Information System
+  - MIS213 - Business on the Internet
+  - MIS231 - Professional Ethics in the Digital Age
+  - MIS251 - Accounting Information Systems
+  - MIS271 - Business Intelligence
+  - MIS312 - eBusiness Strategies
+  - MIS313 - Strategic Supply Chain Management
+  - MLC101 - Business Law
+  - MLC206 - Marketing Law
+  - MLC309 - Employment Law
+  - MLC310 - Sport and the Law
+  - MLL110 - Legal Principles and Skills
+  - MLL214 - Criminal Law
+  - MLL217 - Misleading Conduct and Economic Torts
+  - MLL323 - Constitutional Law
+  - MLL325 - Land Law
+  - MLL334 - Evidence
+  - MLL342 - Workplace Law
+  - MLL370 - Law and the Internet
+  - MLL391 - Civil Procedure and Alternative Dispute Resolution
+  - MLL409 - Competition Law and Policy
+  - MMH230 - Strategic Human Resource Management
+  - MMH232 - Human Resource Development
+  - MMH349 - Industrial Relations
+  - MMH352 - International and Comparative Human Resource Management
+  - MMH356 - Change Management
+  - MMK265 - Marketing Research
+  - MMK266 - Consumer Behaviour
+  - MMK277 - Marketing Management
+  - MMK332 - Direct and Digital Marketing
+  - MMK351 - Services Marketing
+  - MMK358 - International Marketing
+  - MMK368 - Business Marketing
+  - MMK380 - Brand Management
+  - MMK393 - Integrated Marketing Communications
+  - MMM132 - Management
+  - MMM240 - Organisational Behaviour
+  - MMM262 - Understanding Organisations
+  - MMM282 - International Business
+  - MMM365 - Strategic Management
+  - SIT102 - Introduction to Programming
+  - SIT194 - Introduction to Mathematical Modelling
+ - La Trobe University
+  - ABS1IIA - Introduction to Aboriginal Australia
+  - ACC1AIS - accounting information systems
+  - ACC1AMD - Accounting for Management Decisions (Degree)
+  - ACC2CAD - Cost Accounting & Decision Making
+  - ACC2CRE - Corporate Reporting
+  - ACC3AFA - Advanced Financial Accounting
+  - ACC3AUD - Auditing
+  - ACC3MAC - Management Accounting and Control
+  - ACC3SMA - Strategic Management Accounting
+  - ACC3TAX - Taxation
+  - BMGT1IIB - Introduction to International Business
+  - BUS1AFB - Accounting & Finance for Business
+  - BUS1AFB - Accounting and Finance for Business
+  - BUS1BAN - Business Analytics
+  - BUS1BUE - Business Economics
+  - BUS1BUF - Business Foundations
+  - CHE1CHF - Foundations in Chemistry for first year Study
+  - DBA1AFB - Accounting & Finance for Business
+  - DBA1AMD - Accounting for Management Decision (Diploma)
+  - DBA1BAN - Business Analytics
+  - DBA1BUE - Business Economics
+  - DBA1BUF - Business Foundations
+  - DBA1FOF - Fundamental of Finance
+  - DBA1FOM - Foundations of Management (Diploma)
+  - DBA1IBL - Introductory Business Law
+  - DBA1MPP - Marketing Principles & Practice (Diploma)
+  - ECO2IQA - Introduction to Quantitative Analysis
+  - EDU5LPP - Learning and professional practice
+  - FIN1FOF - Finance
+  - FIN3BFI - Banking & Financial Institutions
+  - FIN3CFI - Corporate Finance
+  - FIN3FDR - Financial Derivatives
+  - FIN3IFM - International Financial Management
+  - FIN3IPM - Investment and Portfolio Management
+  - FSP00AC1 - Accounting 1
+  - FSP00AC2 - Accounting 2
+  - FSP00EC1 - Economics 1
+  - FSP00EC2 - Economics 2
+  - HBS1HBA - Human Bioscience A
+  - HBS2HAA - Human Anatomy A
+  - LST2BSL - Business Law (Degree)
+  - LST2LBA - Law of Business Association
+  - MGT1FOM - Foundations of Management (Degree)
+  - MGT2HRM - Human Resource Management
+  - MGT2IMG - International Management
+  - MGT2OBE - Organisational Behaviour
+  - MGT3HRD - Human Resource Development
+  - MGT3IHR - International Human Resource Management
+  - MGT3LWM - Leadership: What Matters?
+  - MGT3OCD - Organisational Change and Development
+  - MGT3SMG - Strategic Management
+  - MKT1MDP - Marketing Defines, Planned and Delivered
+  - MKT2CBE - Consumer Behaviour
+  - MKT2SMA - Services Marketing
+  - MKT3IMK - International Marketing
+  - MKT3MRE - Marketing Research
+  - MKT3SMK - Strategic Marketing
+  - PSY2COG - Cognition
+  - PSY2PRM - Psychological Research Methods
+  - SOC3MSR - Social Research Methods
+  - WEM2FRE - Freshwater Ecology
+ - Monash Uni
+  - PAC1111
+  - PAC1121
+  - PAC1132
+  - PAC1142
+  - PAC1211
+  - PAC1222
+  - PAC1311
+  - PAC1322
+  - PAC2151
+  - PAC2161
+  - PAC2182
+ - University of Melbourne
+  - ABPL20036
+  - ABPL90089 - Australian Architecture PG
+  - ABPL90090 - Public Transport Network Planning
+  - ABPL90130
+  - ABPL90135
+  - ABPL90246
+  - ACCT10001 - Accounting Reports and Analysis
+  - ACCT10002 - Introductory Financial Accounting
+  - ACCT10003 - Accounting Processes and Analysis
+  - ACCT20001 - Cost Management
+  - ACCT30001 - Financial Accounting Theory
+  - ACCT30002 - Enterprise Performance Management
+  - ACCT30004 - Auditing and Assurance Services
+  - ACCT90002 - Financial Statement Analysis
+  - ACCT90004 - Accounting for Decision Making
+  - ACCT90007 - Advanced Auditing & Assurance Services
+  - ACCT90009 - Strategic Cost Management
+  - ACCT90010 - Strategic Performance Management
+  - ACCT90012 - Corporate Reporting
+  - ACCT90013 - Financial Accounting
+  - ACCT90014 - Auditing and Assurance Services
+  - ACCT90016 - Taxation for Business Decision Making
+  - ACCT90026 - Fraud Examination
+  - ACCT90030 - Accounting Information Systems: Understanding Business Processes Information Systems
+  - AGRI10039 - Australia in the Wine World Dookie
+  - AGRI20030 - Australia in the Wine World Dookie
+  - AGRI90016 - Managing Risk
+  - ANAT20006 - Principles in Human Structure
+  - ANAT30007 - Human Locomotor Systems
+  - BCMB20002 - Biochemistry & Molecular Biology
+  - BCMB30003 - Molecular Aspects of Cell Biology
+  - BCMB30010 - Adv Techniques in Molecular Science
+  - BIOL10002 - Biomolecules and Cells
+  - BIOL10004 - Biology of Cells and Organisms
+  - BIOL10005 - Genetics & the Evolution of Life
+  - BIOM20001 - Molecular and Cellular Biomedicine
+  - BIOM20002 - Human Structure and Function
+  - BISY90009 - Managing Information Technology
+  - BLAW10001 - First Principles of Business Law
+  - BLAW20001 - Corporate Law
+  - BLAW30003 - Taxation Law II
+  - BOTA20004 - Flora of Victoria
+  - BOTA90005 - Flora of Victoria
+  - CEDB20003 - Fundamentals of Cell Biology
+  - CEDB30002 - Concepts in Cell and Developmental Biology
+  - CHEM10003 - Chemistry 1
+  - CHEM10004 - Chemistry 2
+  - CHEM10006 - Chemistry for Biomedicine
+  - CLAS10003 - Intensive Beginners Latin
+  - CLAS20014 - Ancient Greek 6
+  - CLAS20021 - Intensive Beginners Latin
+  - CLAS20029 - Intermediate Latin: Historiography
+  - CLAS30004 - Intensive Beginners Latin
+  - DEVT10001 - The Developing World
+  - DEVT90042 - Fieldwork in Complex and Hostile Places
+  - DEVT90045 - Socio-Economic Development
+  - ECOM20001 - Introductory Econometrics
+  - ECOM30001 - Basic Econometrics
+  - ECOM30003 - Applied Microeconometric Modelling
+  - ECOM30004 - Time Series Analysis and Forecasting
+  - ECOM90003 - Applied Econometric Modelling
+  - ECOM90009 - Quantitative Methods for Business
+  - ECON10003 - Introductory Macroeconomics
+  - ECON10004 - Introductory Microeconomics
+  - ECON10005 - Quantitative Methods 1
+  - ECON20001 - Intermediate Macroeconomics
+  - ECON20002 - Intermediate Microeconomics
+  - ECON20003 - Quantitative Methods 2
+  - ECON20005 - Competition and Strategy
+  - ECON20007 - Globalisation & the World Economy
+  - ECON30001 - International Trade Policy
+  - ECON30003 - Industrial Economics
+  - ECON30005 - Money and Banking
+  - ECON30010 - Microeconomics
+  - ECON30011 - Environmental Economics
+  - ECON30022 - Experimental Economics
+  - ECON40002 - Advanced Macroeconomics
+  - ECON90012 - Microeconomics II
+  - ECON90032 - Macroeconomics for Managers
+  - ECON90045 - Microeconomics 2
+  - ECON90047 - Macroeconomics 2
+  - EDUC10057 - Wellbeing, Motivation and Performance
+  - EDUC30067 - Youth and Popular Culture
+  - EDUC90205 - ASSESSM & REPORTING FOR STUDENT LEA
+  - EDUC90370 - Assessment, Learning & Teaching
+  - EDUC90372 - Primary Arts Education
+  - EDUC90373 - Primary Humanities Education
+  - EDUC90375 - Social & Professional Contexts
+  - EDUC90409 - Assessment, Learning and Teaching
+  - EDUC90445 - Learning Area Humanities 1
+  - EDUC90493 - Arts & Artistry: Studio - Classroom
+  - EDUC90583 - Social & Professional Contexts 1
+  - EDUC90628 - Relationship Skills for Educators 1
+  - EDUC90689 - Differentiated Instructional Management
+  - EDUC90701 - The Child 0-8
+  - EDUC90702 - Curriculum Pedagogy & Assessment 1
+  - EDUC90703 - Prof Practice & Seminar (EC) 1
+  - EDUC90732 - Effective Teriary Teaching
+  - EDUC90745 - Research Methodology in L2 Education
+  - EDUC90758 - Researching Education Practice
+  - EDUC90778 - Primary Mathematics Education 1
+  - ELEC90058 - Signal Processing
+  - ELEN30009 - Electrical Network Analysis Design
+  - ELEN90060 - Power System Analysis
+  - ENEN90034 - Environmental Applied Hydrology
+  - ENGR10003 - Engineering Systems Design 2
+  - EVSC90014 - Environmental Risk Assessment
+  - FNCE10001 - Finance 1
+  - FNCE20001 - Business Finance
+  - FNCE20002 - Management of Financial Institutions
+  - FNCE20003 - Introductory Personal Finance)
+  - FNCE30001 - Investments
+  - FNCE30002 - Corporate Finance
+  - FNCE30003 - International Finance
+  - FNCE30007 - Derivative Securities
+  - FNCE30008 - Intermediate Personal Finance
+  - FNCE30009 - Ethics in Finance
+  - FNCE90005 - Advanced Derivative Securities
+  - FNCE90011 - Derivative Securities
+  - FNCE90015 - Fixed Income
+  - FNCE90016 - International Financial Management
+  - FNCE90018 - Corporate Financial Policy
+  - FNCE90038 - Financial Planning & Advising
+  - FNCE90047 - Financial Markets & Instruments
+  - FNCE90056 - Investment Management
+  - FNCE90060 (Financial Management)
+  - FREN10004 - French 1
+  - GENE20001 - Principles of Genetics
+  - GEOG30022 - Freshwater Ecology & Management
+  - IBUS20002 - Business in the Global Economy
+  - IBUS90002 - Asian Business & Management
+  - IBUS90004 - Cross Cultural Management &Teamwork
+  - ISLM90007 - Contemp Middle East & Central Asia
+  - ITAL10004 - Italian 1
+  - LAWS30029 - Work and the Law
+  - LAWS50023 - Legal Method & Reasoning
+  - LAWS50024 - Principles of Public Law
+  - LAWS50025 - Torts
+  - LAWS50026 - Obligations
+  - LAWS50027 - Dispute Resolution
+  - LAWS50028 - Constitutional Law
+  - LAWS50029 - Contracts
+  - LAWS50030 - Property Law
+  - LAWS50032 - Administrative Law
+  - LAWS50034 - Criminal Law and Procedure
+  - LAWS50035 - Corporations Law
+  - LAWS50036 - Remedies
+  - LAWS50037 - Evidence & Proof
+  - LAWS50038 - Legal Ethics
+  - LAWS50041 - Public International Law
+  - LAWS50046 - Taxation Law & Policy
+  - LAWS50047 - Family Law
+  - LAWS50049 - International Human Rights Law
+  - LAWS50050 - Cross-Border Litigation
+  - LAWS50055 - Advocacy
+  - LAWS50063 - Competition Law
+  - LAWS50064 - Employment Law
+  - LAWS50067 - European Civil Law
+  - LAWS50068 - Equality and Discrimination Law
+  - LAWS50073 - International Capital Markets: Regulation & Institutions
+  - LAWS50078 - Environmental Law
+  - LAWS50084 - Construction Law
+  - LAWS50093 - Insolvency Law
+  - LAWS50101 - Refugee Law
+  - LAWS50110 - Advanced Topics in Taxation
+  - LAWS50115 - Unjust Enrichment and Restitution Law
+  - LAWS50131 - Negotiations
+  - LAWS70068 - Environmental Law
+  - LAWS70264 - International Human Rights Law
+  - LAWS70335 - Contract Interpretation
+  - LAWS70371 - Principles of Employment Law
+  - LAWS70469 - Construction Law
+  - LING10001 - The Secret Life of Language
+  - LING10002 - Intercultural Communication
+  - LING20003 - Second Language Learning and Teaching
+  - LING20005 - Phonetics
+  - LING20006 - Syntax
+  - LING20010 - Language, Society & Culture
+  - LING20011 - Grammar In Use
+  - LING90005 - Quantitative Methods
+  - LING90015 - English Phonetics and Phonology
+  - MAST10007 - Linear Algebra
+  - MAST20029 - Engineering Mathematics
+  - MECM30010 - Writing Journalism
+  - MGMT10002 - Managing People and Organisations
+  - MGMT20002 - Managing Operations
+  - MGMT20004 - Human Resource Management
+  - MGMT20007 - Cross Cultural Management and Teamwork
+  - MGMT20009 - Managing Employee Relations
+  - MGMT30004 - International Human Resource Management
+  - MGMT30006 - Managing Entrepreneurship and Innovation
+  - MGMT30008 - Organisations, Ethics & Society
+  - MGMT30011 - Supply Chain Management
+  - MGMT30012 - Business Consulting
+  - MGMT30013 - Strategic Management
+  - MGMT90013 - Leadership and Team Dynamics
+  - MGMT90016 - Performance Mgmt & Reward Systems
+  - MGMT90026 - Supply Chain Management
+  - MGMT90030 - Managing Innovation and Entrepreneurship
+  - MGMT90032 - Operations and Process Management
+  - MGMT90034 - Research Decisions in Management
+  - MGMT90041 - Financial & Performance Management
+  - MGMT90140 - Management Competencies
+  - MIIM20001 - Principles of Microbiology & Immunology
+  - MKTG10001 - Principles of Marketing
+  - MKTG20001 - Consumer Behaviour
+  - MKTG20004 - Market and Business Research
+  - MKTG20006 - Brand Management
+  - MKTG20008 - Strategic Marketing
+  - MKTG20009 - Global Marketing
+  - MKTG30003 - Service & Relationship Marketing
+  - MKTG30009 - Internet Marketing
+  - MKTG30010 - Advertising & Promotions
+  - MKTG90004 (Marketing Management)
+  - MKTG90005 - Marketing Strategy
+  - MKTG90006 - Brand Management
+  - MKTG90008 - Consumer Behaviour
+  - MKTG90009 - Advertising
+  - MKTG90010 - Marketing Channels
+  - MKTG90017 - Internet Marketing
+  - MUSI10023 - Music Language 1 the Diatonic World
+  - MUSI10037 - Discovering Music
+  - MUSI10208 - 19th Century Music and Ideas
+  - NRMT90017 - Leadership
+  - NURS50003 - Nursing Science 1
+  - NURS90012 - PSYCHOPHARMACOLOGY
+  - NURS90053 - Clients with Complex Health States
+  - NURS90066 - Foundations of Nursing
+  - PHIL20018 - Matters of Life and Death
+  - PHIL20040 - Greek Philosophy
+  - PHYC10001 - Physics 1: Advanced
+  - PHYC10002 - Physics 2: Advanced
+  - PHYC10004  - Physics 2: Physical Science & Technology
+  - PHYC10005 - Physics 1: Fundamentals
+  - PHYC10006 - Physics 2: Life Sciences & Environment
+  - PHYC10007 - Physics for Biomedicine
+  - PHYC10008 - From the Solar System to the Cosmos
+  - PHYC20011 - Electromagnetism and Optics
+  - PHYS20009 - Research Based Physiology
+  - POPH90200 - Principles of Social Research Design
+  - PSYC10003 - Mind, Brain and Behaviour I
+  - PSYC20006 - Biological Psychology
+  - PSYC20007 - Cognitive Psychology
+  - PSYC20008 - Developmental Psychology
+  - PSYC30018 - Neuroscience and the Mind
+  - PSYC80001 - Mind, Brain and Behaviour 1
+  - PSYC80002 - Mind, Brain and Behaviour 2
+  - PSYC90030 - Princ of Psychological Assessment
+  - SCWK90059 - Engaging with Families
+  - ZOOL20005 - Animal Structure and Function
+ - Victoria University
+  - 22203VIC - Professional Writing & Editing
+  - 22248VIC - Advanced Diploma Myotherapy
+  - AEG5112 - NUMERACY IN EDUCATION
+  - AEG5214 - Teaching Languages other than English
+  - AHE2127 - Motor Learning
+  - ASW2203 - Interpersonal & Communication Skills
+  - ASW3104 - Health and Mental Health: Practice and Policy
+  - ASW3300 - Working with Individuals and Families
+  - BEO2264 - Microeconomic Analysis
+  - BEO3430 - International Economic Analysis
+  - BEO6600 - Business Economics
+  - BHO1123 - Food and Beverage Management
+  - BHO2259 - PRODUCT & SERVICE INNOVATION
+  - BHO3312 - Revenue Management
+  - BHO3439 - MARKETING SERVICE & EXPERIENCES
+  - BHO3475 - International Human Relations
+  - BHO5501 - ELECTRONIC MARKETING
+  - BLB1114 - Legal Research Methods
+  - BLB1115 - Torts
+  - BLB1125 - Torts 2
+  - BLB2119 - Corporations Law 1
+  - BLB3128 - Criminal Law
+  - BLB3136 - Family Law In Society
+  - BLB4136 - Equity and Trusts
+  - BLB4146 - Wills & The Admin of Estates
+  - BLO1105 - BUSINESS LAW 1
+  - BLO2205 - CORPORATE LAW
+  - BLO3405 - Law of Financial Institutions & Securities
+  - BLO5540 - Business & Company Law
+  - BMO1102 - Management and Organisatinal Behaviour
+  - BMO5574 - Supply Chain & Logistics Management
+  - BMO5579 - Green Logistics
+  - BMO6506 - WORK & ORGANISATION SYSTEMS
+  - BMO6622 - Managing, Innovation and Entrepeneurship
+  - BMO6624 - Organisation Change Management
+  - HHD2112 - Dermal Science 1
+  - HHD2113 - Health Research & Dermal Studies
+  - HHD3115 - Wound Care Practices
+  - HHD3116 - Lymph and adipose biology
+  - HHD4116 - Human Biology
+  - HLT40312 - Certificate IV in Massage Therapy Practice
+  - HLT50307 - Diploma of Remedial Massage
+  - HNB3117 - Health Priorities & Nursing 5
+  - LLW1000 - Law
+  - LLW4000 - Civil Procedure
+  - NBC3103 - Project Management Principles
+  - SIB50110 - Diploma of Beauty Therapy
+  - SPE1000 - Movement Skill Acquisition
+  - SPE1006 - Introduction Movement Skills
+  - SPE2001 - Major & Minor Games
+  - SPE2007 - Minor Games
