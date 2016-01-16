@@ -32,6 +32,11 @@ local.properties
 
 
 #################
+## IntelliJ IDEA
+#################
+.idea
+
+#################
 ## Visual Studio
 #################
 
