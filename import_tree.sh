@@ -12,8 +12,8 @@ if [[ ! -d $MAGE_ROOT ]]; then
 fi
 
 TREE_FILE=$2
-if [[ ! -f $MAGE_ROOT ]]; then
-	echo "$MAGE_ROOT is not a file"
+if [[ ! -f $TREE_FILE ]]; then
+	echo "$TREE_FILE is not a file"
 	exit 0;
 fi
 
