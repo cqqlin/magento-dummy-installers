@@ -5,8 +5,8 @@ ini_set('display_errors', 1);
 umask(0);
 
 // mage setup
-if (sizeof($argv) != 2) {
-	echo "Usage: php ".$argv[0]." <path_to_mage_root>";
+if (sizeof($argv) != 3) {
+	echo "Usage: php ".$argv[0]." <path_to_mage_root> <path_to_tree_file>";
 	exit();
 }
 
@@ -24,8 +24,9 @@ require_once $mage_core;
 Mage::app()->setCurrentStore(Mage_Core_Model_App::ADMIN_STORE_ID);
 
 
+$treeFile = $argv[2];
 // open the tree file
-if (!$handle = fopen("treefile-category.txt", "r"))
+if (!$handle = fopen($treeFile, "r"))
 	die('Failed to open file');
 
 

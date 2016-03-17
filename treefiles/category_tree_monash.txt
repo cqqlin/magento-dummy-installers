@@ -1,0 +1,127 @@
+- Default Category
+ - Monash University
+  - Accounting & Finance
+  - Architecture
+  - Design
+  - Film & Photography
+  - Fine & Visual Art
+  - Biology
+  - Business & Taxation Law
+  - Chemistry
+  - Communications and Media
+  - Crime & Justice Studies
+  - Earth Sciences
+  - Economics
+  - Education
+  - Engineering
+  - English Literature
+  - ESL & IELTS
+  - Chinese
+  - German
+  - Italian
+  - Spanish
+  - French
+  - Indonesian
+  - Japanese
+  - History
+  - Hospitality & Tourism
+  - Information Technology
+  - Other Law
+  - Tort law
+  - Medical Ethics
+  - Civil procedure
+  - Contract law
+  - Criminal law
+  - Constitutional law
+  - Evidence
+  - Administrative law
+  - Law Reference
+  - Legal ethics
+  - Land and property law
+  - Management
+  - Marketing
+  - Mathematics
+  - Medical-Alternative Medicine
+  - Medical-Anaesthesia
+  - Medical-Anatomy
+  - Medical-Cardiology
+  - Medical-Community Medicine
+  - Medical-Critical Care
+  - Medical-Dentistry
+  - Medical-Dermatology
+  - Medical-Ear Nose & Throat
+  - Medical-Emergency Medicine
+  - Medical-Endocrinology
+  - Medical-Epidemiology
+  - Medical-Exercise Science
+  - Medical-Gastroenterology
+  - Medical-General Practice
+  - Medical-Genetics
+  - Medical-Geriatric Medicine
+  - Medical-Haematology
+  - Medical-Histology
+  - Medical-Immunology
+  - Medical-Infectious Diseases
+  - Medical-Internal Medicine
+  - Medical-Medical Ethics
+  - Medical-Medical Reference
+  - Medical-Microbiology
+  - Medical-Neurology
+  - Medical-Nutrition
+  - Medical-Obstetrics & Gynaecology
+  - Medical-Occupational Medicine
+  - Medical-Oncology
+  - Medical-Opthalmology
+  - Medical-Orthopaedics
+  - Medical-Paediatrics
+  - Medical-Palliative Care
+  - Medical-Pathology
+  - Medical-Pharmacology
+  - Medical-Physiology
+  - Medical-Physiotherapy
+  - Medical-Psychiatry
+  - Medical-Public Health
+  - Medical-Radiology
+  - Medical-Renal Medicine
+  - Medical-Respiratory
+  - Medical-Review Medicine
+  - Medical-Sports Medicine
+  - Medical-Statistics
+  - Medical-Surgery
+  - Medical-Toxicology
+  - Medical-Urology
+  - Medical-Aged Care
+  - Medical-History
+  - Medical-Veterinary Science
+  - Medical-Dietetics
+  - Music
+  - Nursing-Aged Care
+  - Nursing-Midwifery
+  - Nursing-Nursing
+  - Nursing-Palliative Care
+  - Nursing-Womens Health
+  - Nursing-Critical Care
+  - Nursing-Medical Reference
+  - Nursing-Anatomy
+  - Nursing-Pharmacology
+  - Nursing-Paediatrics
+  - Nursing-Psychiatry
+  - Nursing-Occupational Medicine
+  - Nursing-Medical Ethics
+  - Nursing-Neurology
+  - Nursing-Anaesthesia
+  - Nursing-Surgery
+  - Nursing-Internal Medicine
+  - Office Administration
+  - Physics
+  - Politics
+  - Psychology
+  - Science
+  - Social Work
+  - Sociology
+  - Statistics
+  - Politics
+  - Study & Research Methods
+  - Politics
+  - Theology
+  - Trades
