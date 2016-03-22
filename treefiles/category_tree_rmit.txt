@@ -1,0 +1,18 @@
+- Default Category
+ - RMIT
+  - Art, Architecture & Design
+  - Business
+  - Computer Science & IT
+  - Education
+  - Engineering
+  - Fashion & Textiles
+  - Languages
+  - Law
+  - Literature
+  - Media & Communications
+  - Medical & Health
+  - Property & Construction
+  - Reference
+  - Social Sciences
+  - Sciences
+  - Travel
